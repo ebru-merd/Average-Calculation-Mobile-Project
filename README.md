@@ -40,6 +40,10 @@ Kullanılan yapılar:
 
 
 ![1](https://github.com/user-attachments/assets/06c5cb70-2d98-41f8-8564-18f75621e57c)
+![2](https://github.com/user-attachments/assets/d8dda4ca-07fc-449b-bab1-d0f86ead09ee)
+![3](https://github.com/user-attachments/assets/a74119e7-29d0-42b9-80e3-a0e1308dbe43)
+![4](https://github.com/user-attachments/assets/35a4d69f-e51b-43e4-8bc9-22df1bab1e62)
+![5](https://github.com/user-attachments/assets/6c861e37-349e-4ca0-85aa-d793bf1dfd95)
 
 
 
