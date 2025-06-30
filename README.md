@@ -1,7 +1,7 @@
 <h4>🎓 Üniversite Not Ortalaması Hesaplayıcı – Flutter</h4>
 Bu proje, Flutter kullanarak geliştirilen basit bir üniversite genel not ortalaması (GANO) hesaplayıcısıdır. Uygulamanın amacı yalnızca ortalama hesaplamak değil; aynı zamanda Flutter'da callback fonksiyonlarının, Form yönetiminin ve dinamik UI güncellemelerinin nasıl yapıldığını öğrenmek ve göstermek.
 
-📱 Özellikler
+📱 Özellikler<br>
 Ders adı, kredi ve harf notu girerek listeye ders ekleme
 
 Eklenen dersleri listeleme ve silme
@@ -12,7 +12,7 @@ Kullanıcı girişlerinin kontrolü (form doğrulama)
 
 Callback fonksiyonlarıyla bileşenler arası veri iletişimi
 
-🧠 Proje Amacı
+🧠 Proje Amacı<vr>
 Bu uygulama ile öğrenilen/yapılan temel konular:
 
 StatefulWidget ve State yönetimi
@@ -27,10 +27,10 @@ Dart dilinde map, list, class kullanımı
 
 Temiz ve yeniden kullanılabilir widget yapısı
 
-🧩 Teknik Detaylar
+🧩 Teknik Detaylar<br>
 Minimum desteklenen platformlar: Android, iOS, Web
 
-Kullanılan yapılar:
+Kullanılan yapılar:<br>
 <ul>
   <li>Form ve GlobalKey<FormState></li>
   <li>setState()</li>
