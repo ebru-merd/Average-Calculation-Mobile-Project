@@ -37,11 +37,10 @@ Kullanılan yapılar:
   <li>ListView.builder</li>
   <li>Callback (Function) parametreleri ile veri taşıma</li>
 </ul>
-![WhatsApp Image 2025-06-30 at 18 49 40](https://github.com/user-attachments/assets/176cfc6d-ebf6-45b3-a03f-e32dff9749b4)
-![WhatsApp Image 2025-06-30 at 18 49 40 (1)](https://github.com/user-attachments/assets/8cd27ad0-99d9-4b64-b313-d535460a8881)
-![WhatsApp Image 2025-06-30 at 18 49 40 (2)](https://github.com/user-attachments/assets/7489fa83-35bb-4dca-98e6-af25c0e4ee80)
-![WhatsApp Image 2025-06-30 at 18 49 41](https://github.com/user-attachments/assets/2678d074-a25e-478e-812b-f36c58f079d1)
-![WhatsApp Image 2025-06-30 at 18 49 41 (1)](https://github.com/user-attachments/assets/1507c66b-b9af-4b70-bd43-7481f0c210e8)
+
+![1](https://github.com/user-attachments/assets/381741e8-7dc3-4e1a-a1f3-9be9d280421e)
+
+
 
 
 
