@@ -38,7 +38,8 @@ Kullanılan yapılar:
   <li>Callback (Function) parametreleri ile veri taşıma</li>
 </ul>
 
-![1](https://github.com/user-attachments/assets/536a5c56-bd9b-4265-ad22-950f1225a3b8)
+
+![1](https://github.com/user-attachments/assets/06c5cb70-2d98-41f8-8564-18f75621e57c)
 
 
 
