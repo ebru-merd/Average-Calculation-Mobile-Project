@@ -1,5 +1,5 @@
 <h4>🎓 Üniversite Not Ortalaması Hesaplayıcı – Flutter</h4>
-Bu proje, Flutter kullanarak geliştirilen basit bir üniversite genel not ortalaması (GANO) hesaplayıcısıdır. Uygulamanın amacı yalnızca ortalama hesaplamak değil; aynı zamanda Flutter'da callback fonksiyonlarının, Form yönetiminin ve dinamik UI güncellemelerinin nasıl yapıldığını öğrenmek ve göstermek.
+Bu proje, Flutter kullanarak geliştirilen basit bir üniversite genel not ortalaması (GANO) hesaplayıcısıdır. Uygulamanın amacı yalnızca ortalama hesaplamak değil; aynı zamanda Flutter'da callback fonksiyonlarının, Form yönetiminin ve dinamik UI güncellemelerinin nasıl yapıldığını öğrenmek ve göstermek.<br>
 
 📱 Özellikler<br>
 Ders adı, kredi ve harf notu girerek listeye ders ekleme
